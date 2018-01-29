@@ -1,0 +1,17 @@
+h1 {
+	font-size: 22px;
+	font-color: blue;
+}
+p {
+	font-size: 10px;
+	font-color: black;
+}
+nav {
+	background-color: yellow;
+}
+
+h2 p {
+	font-size: 30px;
+	font-family: helvetica;
+	text-decoration: underline;
+}
